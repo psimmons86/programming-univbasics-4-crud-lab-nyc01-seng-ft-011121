@@ -7,7 +7,7 @@ radiohead_array = ["thom", "jonny", "ed", "colin"]
 end
 
 def add_element_to_end_of_array(array, element)
-radiohead_array <<"phil"
+radiohead_array << "phil"
 end
 
 def add_element_to_start_of_array(array, element)
